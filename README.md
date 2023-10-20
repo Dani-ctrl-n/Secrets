@@ -1,3 +1,3 @@
 # Secrets
 
-# Different types of authentication
+** Different types of authentication
